@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">spotifylite</string>
+    <string name="title_category">Category</string>
+    <string name="title_search">Search</string>
+    <string name="title_new_reliase">New Reliase</string>
+    <string name="splash_load_textView">Loading...</string>
+
+</resources>

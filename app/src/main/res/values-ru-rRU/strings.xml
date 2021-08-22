@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">spotifylite</string>
+    <string name="title_category">Категрии</string>
+    <string name="title_new_reliase">Новые релизы</string>
+    <string name="title_search">Поиск</string>
+    <string name="splash_load_textView">Загрузка...</string>
+</resources>
