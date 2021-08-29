@@ -18,8 +18,8 @@ import com.android.volley.toolbox.Volley
 
 object SpotifyService {
 
-    private const val CLIENT_ID = "4459fe889c8b4550943385bcc80e33df"
-    private const val  REDIRECT_URI = "com.spotifylite://callback"
+    private const val CLIENT_ID = "bb9969cfe3414b88b2aff3d921a92602"
+    private const val  REDIRECT_URI = "http://com.qpkiraqp.spotifylite/callback"
 
     private var spotifyAppRemote: SpotifyAppRemote? = null
     private var connectionParams: ConnectionParams = ConnectionParams.Builder(CLIENT_ID)
